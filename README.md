@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/profile.jpg" alt="Arjun Sharma" width="250" style="border-radius:50%;" />
+  <img src="WhatsApp Image 2024-11-14 at 12.11.30 PM.jpeg" alt="Arjun Sharma" width="250" style="border-radius:50%;" />
 </p>
 
 # Hi, I'm Arjun Sharma 👋  
@@ -37,21 +37,12 @@
 ---
 
 ## 📂 Featured Projects  
+🔹 [Loan Prediction System](https://github.com/your-username/loan_prediction) — ML-based loan approval predictor
 
-<p align="center">
-  <a href="https://github.com/your-username/loan_prediction">
-    <img src="https://github.com/your-username/your-username/blob/main/assets/loan.png" width="400" />
-  </a>
-  <a href="https://github.com/your-username/medical_diagnosis">
-    <img src="https://github.com/your-username/your-username/blob/main/assets/medical.png" width="400" />
-  </a>
-  <a href="https://github.com/your-username/portfolio">
-    <img src="https://github.com/your-username/your-username/blob/main/assets/portfolio.png" width="400" />
-  </a>
-</p>
+🔹 [Medical Diagnosis System](https://github.com/your-username/medical_diagnosis) — Django app for disease prediction from symptoms  
 
----
-
+🔹 [Portfolio Website](https://github.com/your-username/portfolio) — Personal portfolio using HTML/CSS/JS
+  
 ## 📊 GitHub Stats  
 
 <p align="center">
