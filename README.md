@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_circular.png" 
+  <img src="me1.jpg" 
        alt="Arjun Sharma" 
        width="180" 
        height="180" />
@@ -48,21 +48,18 @@
 🔹 [Portfolio Website](https://github.com/your-username/portfolio) — Personal portfolio using HTML/CSS/JS
   
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180" />
-</p>
-
+- 🔥 120+ contributions in 2025  
+- 📂 5+ projects in Machine Learning & Django  
+- 🌱 Currently learning Deep Learning and DSA
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/arjun-sharma-a5540a293">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:arjunsharma132620.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
