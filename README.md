@@ -48,9 +48,11 @@
 🔹 [Portfolio Website](https://github.com/your-username/portfolio) — Personal portfolio using HTML/CSS/JS
   
 ## 📊 GitHub Stats  
-- 🔥 120+ contributions in 2025  
-- 📂 5+ projects in Machine Learning & Django  
-- 🌱 Currently learning Deep Learning and DSA
+ 🔥 **120 contributions** in the last year  
+- 📂 Worked on **Machine Learning, Django, and Full-Stack Projects**  
+- 🌱 Currently learning **Deep Learning & React**  
+- 🚀 Building projects like **Loan Prediction System, Medical Diagnosis System, and Portfolio Website**  
+- 🤝 Open to collaborating on **AI/ML and Web Development projects**  
 ---
 
 ## 🌐 Connect with Me  
