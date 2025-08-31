@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="WhatsApp Image 2024-11-14 at 12.11.30 PM.jpeg" alt="Arjun Sharma" width="250" style="border-radius:50%;" />
+  <img src="profile_circular.png" 
+       alt="Arjun Sharma" 
+       width="180" 
+       height="180" />
 </p>
+
 
 # Hi, I'm Arjun Sharma 👋  
 🎓 **Computer Science Student** | 💡 **Machine Learning Enthusiast** | 🌐 **Django & Full-Stack Developer**  
